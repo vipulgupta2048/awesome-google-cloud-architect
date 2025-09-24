@@ -12,9 +12,9 @@ This repository contains comprehensive study notes, practice materials, case stu
 ├── 📋 GCP Cloud Architect.md         # Main overview and exam topics
 ├── 📝 Cheatsheets.md                 # Quick reference guides and cheat sheets
 ├── 💡 Tips.md                        # Exam tips and strategies
-├── 🎯 most important topics.md       # Critical topics for exam success
+├── 🎯 Most Important Topics.md       # Critical topics for exam success
 ├── ❓ Doubts big list.md             # Common doubts and clarifications
-├── 📁 case studies/                  # Real-world case study solutions
+├── 📁 Case Studies/                  # Real-world case study solutions
 │   ├── 0 - index case studies.md
 │   ├── EHR HealthCare.md
 │   ├── Helicopter Racing League Case Study.md
