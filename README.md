@@ -113,15 +113,7 @@ If you prefer not to use Obsidian:
 
 ## 📊 Exam Insights
 
-From my successful exam attempt, here are the key areas that appeared frequently:
-
-- **Case Studies**: 12 questions directly from case studies
-- **GKE & Kubernetes**: Deep technical concepts (liveness/readiness probes, scaling, multi-cluster ingress)
-- **Networking**: VPC, load balancers, interconnect options, IAP
-- **CI/CD Pipelines**: Cloud Build, vulnerability scanning, binary authorization
-- **Storage Solutions**: GCS types, BigQuery vs BigTable, disaster recovery
-- **Security & Compliance**: IAM roles, Cloud Armor, DLP, organization policies
-- **Monitoring**: Cloud Operations, error reporting, log aggregation
+Please reach out privately to discuss detailed insights from my exam experience, including question breakdowns and topic weightage. Google Cloud prefers to keep this information confidential to maintain the integrity of the exam.
 
 ## 🤝 Contributing
 
