@@ -115,6 +115,7 @@ If you prefer not to use Obsidian:
 
 Please reach out privately to discuss detailed insights from my exam experience, including question breakdowns and topic weightage. Google Cloud prefers to keep this information confidential to maintain the integrity of the exam.
 
+
 ## 🤝 Contributing
 
 I welcome contributions to improve these notes! Here's how you can help:

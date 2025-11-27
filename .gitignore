@@ -41,3 +41,9 @@ __pycache__/
 
 # Logs
 *.log
+
+# Quartz build artifacts
+.quartz-cache/
+public/
+.cache/
+dist/
