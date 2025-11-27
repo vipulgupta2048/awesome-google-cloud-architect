@@ -1,0 +1,23 @@
+[[Week 1]]
+
+[[GCS Cloud Storage]]
+[[G Cloud Load balancing]]
+[[Managed Instance Groups - MIGs]]
+[[Region and Zones]]
+[[Virtual Private Cloud Networking]]
+[[G Cloud DNS]]
+[[G Compute Engine - GCE, VMs]]
+[[Region and Zones]]
+[[Opex and Capex]]
+[[G Cloud Monitoring]]
+[[G Kubernetes Engine]]
+[[REST APIs Designing (HTTPS vs gRPC)]]
+[[G Compliance & Security]]
+[[G Cloud Run Functions]]
+[[G Cloud source repository]]
+[[G Cloud Build]]
+[[G Artifact Registry]]
+[[G App Engine]]
+
+
+[[Week 4]]

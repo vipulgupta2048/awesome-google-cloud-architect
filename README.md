@@ -193,7 +193,7 @@ Your sponsorship helps:
 - [Google Cloud Architecture Center](https://cloud.google.com/architecture)
 - [Google Cloud Documentation](https://cloud.google.com/docs)
 
-### Practice Exams & Questions
+### Practice Exams & Questiaons
 - [Official Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSf54f7FbtSJcXUY6-DUHfBG31jZ3pujgb8-a5io_9biJsNpqg/viewform)
 - [ExamTopics - PCA Questions](https://www.examtopics.com/exams/google/professional-cloud-architect/)
 - [Whizlabs Practice Tests](https://www.whizlabs.com/blog/gcp-professional-cloud-architect-free-questions/)

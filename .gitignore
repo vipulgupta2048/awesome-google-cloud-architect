@@ -1,0 +1,43 @@
+# Obsidian files
+.obsidian/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Personal notes (if any)
+personal/
+drafts/
+
+# Backup files
+*.bak
+*.backup
+
+# IDE files
+.vscode/settings.json
+.idea/
+
+# Node modules (if any automation is added)
+node_modules/
+
+# Python cache (if any scripts are added)
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
